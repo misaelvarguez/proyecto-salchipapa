@@ -36,8 +36,8 @@ function Login() {
                 placeholder="Password" value={user.password} onChange={onChangeInput} />
 
                 <div className="row">
-                    <button type="submit">Login</button>
-                    <Link to="/register">Register</Link>
+                    <button type="submit">Iniciar Sesión</button>
+                    <Link to="/register">Registro</Link>
                 </div>
             </form>
         </div>
@@ -45,3 +45,18 @@ function Login() {
 }
 
 export default Login
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

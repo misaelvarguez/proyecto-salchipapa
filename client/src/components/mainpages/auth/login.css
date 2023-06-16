@@ -1,6 +1,6 @@
 .login-page{
     max-width: 500px;
-    border: 2px solid rgb(206, 3, 3);
+    border: 2px solid rgb(71, 12, 66);
     border-radius: 5px;
     padding: 30px;
     margin: 50px auto;
@@ -18,8 +18,8 @@
     height: 40px;
     margin: 10px 0;
     padding: 0 5px;
-    outline: rgb(3, 165, 206);
-    border: 3px solid rgb(3, 165, 206);
+    outline: rgb(20, 138, 118);
+    border: 3px solid rgb(9, 49, 61);
     border-radius: 4%;
 }
 .login-page form .row{
@@ -38,7 +38,7 @@
     background: blue;
 }
 .login-page form a{
-    color: orange;
+    color: rgb(211, 25, 25);
     letter-spacing: 1.3px;
     text-transform: uppercase;
 }
