@@ -110,7 +110,7 @@ const userCtrl = {
                 cart: req.body.cart
             })
 
-            return res.json({msg: "Añadido al carrito"})
+            return res.json({msg: "Added to cart"})
         } catch (err) {
             return res.status(500).json({msg: err.message})
         }
